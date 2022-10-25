@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - updates a integer value to 98
  * @n: A pointer to an int that will be updated
- * Return: n
+ * Return: void that means our answer is correct
  */
 
 void reset_to_98(int *n)
